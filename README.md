@@ -4,11 +4,11 @@ An LLM-based Application for Analyzing MF4 Files
 ## Demo of the Chatbot
 
 ### Line Plot
-[![Watch the video](https://github.com/ericle00/mf4agent/blob/main/assets/thumbnail.png)](https://github.com/ericle00/mf4agent/blob/main/assets/demo1.mp4)
-<video src="https://github.com/ericle00/mf4agent/blob/main/assets/demo1.mp4">
+https://github.com/user-attachments/assets/a275dd64-cfdb-4063-8b22-9dcff8323b44
 
 ### Linear Regression
-[![Watch the video](https://github.com/ericle00/mf4agent/blob/main/assets/thumbnail.png)](https://github.com/ericle00/mf4agent/blob/main/assets/demo2.mp4)
+https://github.com/user-attachments/assets/146c5596-32cf-46f2-a6fe-7a208bbfb039
 
 ### 2D Histogram
-[![Watch the video](https://github.com/ericle00/mf4agent/blob/main/assets/thumbnail.png)](https://github.com/ericle00/mf4agent/blob/main/assets/demo3.mp4)
+https://github.com/user-attachments/assets/5a65da7e-f26e-4bdf-b527-ff95cbef1a5f
+
