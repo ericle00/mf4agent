@@ -12,3 +12,5 @@ https://github.com/user-attachments/assets/146c5596-32cf-46f2-a6fe-7a208bbfb039
 ### 2D Histogram
 https://github.com/user-attachments/assets/5a65da7e-f26e-4bdf-b527-ff95cbef1a5f
 
+### More
+It is capable of generating other kind of plots as well!
